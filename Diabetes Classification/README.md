@@ -1,10 +1,13 @@
-Welcome! This repository houses a Jupyter notebook showcasing the development and evaluation of a diabetes classification model using logistic regression. It aims to predict whether a patient is likely to have diabetes based on their diagnostic information.
 
-**Data:**
+## **Diabetes Classification Model**
+### **Overview**
+This repository contains a Jupyter notebook that demonstrates the process of building a classification model for predicting diabetes based on diagnostic information about patients. The model is trained using a supervised machine learning approach, specifically using logistic regression.
+
+**Dataset:**
 
 **Source**: diabetes.csv - A dataset containing patient information and a binary label for diabetes diagnosis (0: no diabetes, 1: diabetes).
 **Features**: Pregnancies, Plasma Glucose, Diastolic Blood Pressure, Triceps Thickness, Serum Insulin, BMI, Diabetes Pedigree, Age
-Steps:
+## **Steps:**
 
 Exploratory Data Analysis (EDA): Dive into the data, understand its characteristics, and identify potential issues like missing values or outliers.
 

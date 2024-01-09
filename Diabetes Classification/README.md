@@ -33,7 +33,11 @@ Classification Report: Analyze detailed metrics for each class (diabetic vs. non
 What you'll find in the notebook:
 
 Detailed explanations of each step in the process.
+
 Code snippets illustrating the implementation.
+
 Visualizations of data relationships and model performance.
+
 Insights into the model's strengths and limitations.
+
 This notebook provides a comprehensive learning experience for anyone interested in building and evaluating machine learning models for medical diagnosis.

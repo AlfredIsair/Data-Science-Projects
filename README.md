@@ -1,5 +1,4 @@
 # Data-Science-Projects
-# Data Science Repository
 
 This repository contains various projects in the field of data science. Each project focuses on a specific aspect of data analysis and machine learning. Below is a brief overview of the projects available in this repository:
 

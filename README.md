@@ -12,9 +12,6 @@ Diabetes is a prevalent health condition worldwide, and early detection is essen
 ## Heart Stroke Data Analysis
 Heart stroke is a severe medical emergency that requires timely intervention. This project involves analyzing data related to heart health to identify factors contributing to the risk of stroke and develop predictive models for early detection.
 
-## Image Analysis Using Python
-Images contain valuable information, and analyzing them can provide insights in various domains. This project focuses on utilizing Python for image analysis, including tasks such as object detection, image classification, and image segmentation.
-
 ## Sales Data Analytics
 Understanding sales data is crucial for businesses to make informed decisions and optimize their strategies. This project involves analyzing sales data to identify patterns, trends, and insights that can help improve sales performance.
 

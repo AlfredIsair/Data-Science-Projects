@@ -15,6 +15,7 @@ Heart stroke is a severe medical emergency that requires timely intervention. Th
 ## Sales Data Analytics
 Understanding sales data is crucial for businesses to make informed decisions and optimize their strategies. This project involves analyzing sales data to identify patterns, trends, and insights that can help improve sales performance.
 
+## NOTE
 Each project directory contains the necessary files, including datasets, code scripts, and documentation, to facilitate understanding and reproduction of the analysis. Feel free to explore each project for more details and insights.
 
-**Note:** This README will be periodically updated with new projects added to the repository.
+

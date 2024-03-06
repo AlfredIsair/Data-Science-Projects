@@ -1,4 +1,4 @@
-# Chronic Disease Distribution Analysis
+# Chronic Diseases Analysis
 
 This repository contains code and resources for analyzing the distribution of chronic diseases in US states over a certain period. The project aims to understand the prevalence and distribution of chronic diseases, explore stratification processes used to group patients, and analyze how each state is affected by different diseases or topics.
 

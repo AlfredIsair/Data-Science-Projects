@@ -17,19 +17,10 @@ The analysis focuses on the following objectives:
 
 ## Repository Structure
 
-- **code/**: Contains Python scripts for data analysis and visualization.
+- **.ipynb**: Contains Python scripts for data analysis and visualization.
 - **data/**: Contains the dataset used in the analysis.
-- **notebooks/**: Jupyter Notebooks with detailed analysis and visualization steps.
 - **README.md**: Overview of the project and instructions for running the code.
 - **LICENSE**: License information for the project.
-
-## Getting Started
-
-To run the analysis, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Navigate to the `notebooks/` directory and open the Jupyter Notebooks to view the analysis.
 
 ## License
 

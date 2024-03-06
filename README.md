@@ -14,6 +14,9 @@ Heart stroke is a severe medical emergency that requires timely intervention. Th
 ## Sales Data Analytics
 Understanding sales data is crucial for businesses to make informed decisions and optimize their strategies. This project involves analyzing sales data to identify patterns, trends, and insights that can help improve sales performance.
 
+## Chronic Disease Analysis
+Analyzing the distribution of chronic diseases in US states over a certain period. The project aims to understand the prevalence and distribution of chronic diseases, explore stratification processes used to group patients, and analyze how each state is affected by different diseases or topics.
+
 ## NOTE
 Each project directory contains the necessary files, including datasets, code scripts, and documentation, to facilitate understanding and reproduction of the analysis. Feel free to explore each project for more details and insights.
 

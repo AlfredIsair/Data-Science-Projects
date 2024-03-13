@@ -45,5 +45,3 @@ By examining customer behaviors and logistical details, we discover important in
 - seaborn
 - scikit-learn
 
-## Author
-[Your Name]
